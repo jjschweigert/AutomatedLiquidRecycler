@@ -12,7 +12,7 @@ The goals of this project are
 No builds
 
 ## Wiki
-[Project Wiki](https://github.com/jjschweigert/AutomatedLiquidRecycler/wiki)
+[Automated Liquid Recycler Wiki](https://github.com/jjschweigert/AutomatedLiquidRecycler/wiki)
 
 ## Schematics
 
