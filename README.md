@@ -6,6 +6,7 @@ The goals of this project are
 * To explore arduino/prototyping expansion boards that are used for liquid transfer/pumping
 * To understand how to measure liquid flow and how to only gather the necessary amount of new liquid from a source.
 * To build a general application with the specific use case of recycling a pet's water source in a residential setting
+* Allow schedule based recycling of the current volume of liquid as well as manual purging.
 
 
 ## Build Status
