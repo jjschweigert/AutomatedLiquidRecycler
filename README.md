@@ -3,9 +3,9 @@ Liquid transfer system that allows a user to schedule or manually recycle the cu
 
 ## Motivation
 The goals of this project are
-* Explore arduino/prototyping expansion boards that are used for liquid transfer/pumping
-* Understand how to measure liquid flow and how to only gather the necessary amount of new liquid from a source.
-* Build a general application with the specific use case of recycling a pet's water source in a residential setting
+* To explore arduino/prototyping expansion boards that are used for liquid transfer/pumping
+* To understand how to measure liquid flow and how to only gather the necessary amount of new liquid from a source.
+* To build a general application with the specific use case of recycling a pet's water source in a residential setting
 
 
 ## Build Status
