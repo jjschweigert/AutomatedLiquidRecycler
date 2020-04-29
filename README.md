@@ -14,6 +14,12 @@ No builds
 ## Wiki
 [Project Wiki](https://github.com/jjschweigert/AutomatedLiquidRecycler/wiki)
 
+## Schematics
+
+Block Diagram v1
+
+![Block Diagram v1](/media/AutomatedLiquidRecyclerBlockDiagram_v1.png)
+
 ## How To Use
 (Todo)
 
